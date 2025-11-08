@@ -10,5 +10,5 @@ Este es un proyecto para la materia de Estructuras de Datos (EDA) de la Facultad
 
 Este proyecto fue un esfuerzo colaborativo entre:
 
-* **José Julián Pérez Bustamante** ([@PBJulian](https://github.com/PBJulian))
+* **José Julian Pérez Bustamante** ([@PBJulian](https://github.com/PBJulian))
 * **Miguel Ángel García Rangel** ([@Mikes017](https://github.com/Mikes017))
